@@ -1,4 +1,4 @@
-exports.TOKEN = 'NTcyNTcyMDI5MzU0NzcwNDM0.XMePTg.8nE-GMX7xtZiFNp2Br8V8CHv5Ag';
+exports.TOKEN = process.env.BOT_TOKEN;
 
 exports.PREFIX = 'L';
 
